@@ -4,4 +4,5 @@
 
 Connect with me:
 
-[Skype](skype:<@alexa_strelnikov>chat)
+[Skype](skype:alexa_strelnikov?chat)
+<a href="skype:alexa_strelnikov?call">Call</a>
