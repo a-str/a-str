@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexander Strelnikov! 👋
 
 ### Connect with me:
-email: alexstrelnikov1@yandex.ru
+[email](alexstrelnikov1@yandex.ru)
 <br />
 
 ### Languages and Tools:
